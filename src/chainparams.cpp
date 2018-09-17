@@ -174,8 +174,7 @@ public:
 
         checkpointData = (CCheckpointData){
             boost::assign::map_list_of
-            ( 0, uint256S("0x00000bd848893d8c044553b457ef63ea00ec9af65c3750036e89d92cdfa069c9")),
-			( 3, uint256S("0x000002a138b0c45a9d2fb5fcc90605ea6c76350ac3bcf5b5c7fb96ca7c53c5db")),
+	    ( 3, uint256S("0x000002a138b0c45a9d2fb5fcc90605ea6c76350ac3bcf5b5c7fb96ca7c53c5db")),
         
 
             1537185288, // * UNIX timestamp of last checkpoint block
