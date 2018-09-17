@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/collectiblecoin_bg.qm</file>
+        <file alias="de">locale/collectiblecoin_de.qm</file>
+        <file alias="en">locale/collectiblecoin_en.qm</file>
+        <file alias="es">locale/collectiblecoin_es.qm</file>
+        <file alias="fi">locale/collectiblecoin_fi.qm</file>
+        <file alias="fr">locale/collectiblecoin_fr.qm</file>
+        <file alias="it">locale/collectiblecoin_it.qm</file>
+        <file alias="ja">locale/collectiblecoin_ja.qm</file>
+        <file alias="pl">locale/collectiblecoin_pl.qm</file>
+        <file alias="pt">locale/collectiblecoin_pt.qm</file>
+        <file alias="ru">locale/collectiblecoin_ru.qm</file>
+        <file alias="sk">locale/collectiblecoin_sk.qm</file>
+        <file alias="sv">locale/collectiblecoin_sv.qm</file>
+        <file alias="vi">locale/collectiblecoin_vi.qm</file>
+        <file alias="zh_CN">locale/collectiblecoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/collectiblecoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

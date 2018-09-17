@@ -1,0 +1,22 @@
+[Unit]
+Description=Collectiblecoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=collectiblecoincore
+Group=collectiblecoincore
+
+Type=forking
+PIDFile=/var/lib/collectiblecoind/collectiblecoind.pid
+ExecStart=/usr/bin/collectiblecoind -daemon -pid=/var/lib/collectiblecoind/collectiblecoind.pid \
+-conf=/etc/collectiblecoincore/collectiblecoin.conf -datadir=/var/lib/collectiblecoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

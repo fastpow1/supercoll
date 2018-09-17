@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_collectiblecoin.o: qt/qrc_collectiblecoin.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

@@ -1,0 +1,2 @@
+#define BUILD_SUFFIX 34a61c5-dirty
+#define BUILD_DATE "2018-05-25 17:57:05 +0700"

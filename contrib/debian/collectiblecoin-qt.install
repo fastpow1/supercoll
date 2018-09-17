@@ -1,0 +1,6 @@
+usr/local/bin/collectiblecoin-qt usr/bin
+share/pixmaps/collectiblecoin32.xpm usr/share/pixmaps
+share/pixmaps/collectiblecoin16.xpm usr/share/pixmaps
+share/pixmaps/collectiblecoin128.png usr/share/pixmaps
+debian/collectiblecoin-qt.desktop usr/share/applications
+debian/collectiblecoin-qt.protocol usr/share/kde4/services/

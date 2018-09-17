@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Collectiblecoin
+Comment=Collectiblecoin P2P Cryptocurrency
+Comment[fr]=Collectiblecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Collectiblecoin, eşten eşe kriptografik sanal para birimi
+Exec=collectiblecoin-qt %u
+Terminal=false
+Type=Application
+Icon=collectiblecoin128
+MimeType=x-scheme-handler/collectiblecoin;
+Categories=Office;Finance;
